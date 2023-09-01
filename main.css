@@ -147,6 +147,7 @@ body {
 }
 .channel-hidden {
     opacity: 0;
+    pointer-events: none;
 }
 
 @keyframes unmutedAnim {
